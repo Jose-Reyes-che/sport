@@ -112,3 +112,10 @@ button{
     width: 16em;
     color: aliceblue;
 }
+.a1{
+    background-color: #ffc09f;
+    width: 25em;
+    height: 35em;
+    display: block;
+    margin: auto;
+}
